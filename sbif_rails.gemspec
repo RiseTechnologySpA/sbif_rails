@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{API Client for Chile SBIF}
   spec.homepage      = "https://github.com/RiseTechnologySpA/sbif-rails"
   spec.license       = "MIT"
-  spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
+  spec.required_ruby_version = Gem::Requirement.new(">= 2.1.0")
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org/"
 
